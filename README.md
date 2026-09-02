@@ -36,3 +36,6 @@ The website contains my:
 - Contact Information
 
 > "Finding what breaks, before it ships."
+
+
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/4c36ed81-56e1-4e8b-9f0e-66801d3c9c73" />
